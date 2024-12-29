@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: xulong的小站
+title: guyuefangyuan的小站
 subtitle: ""
 description: ""
 keywords:
-author: xulong
+author: gu yue fang yuan
 language: zh-CN
 timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://xulong0826.github.io/blog/
+url: https://3429298138.github.io/blog/
 
 # 之前的永久链接是会把年份、月份、日期都加上的，但是我已经按照年份、月份、日期分好了文件夹
 # 所以这里就不需要了，直接把永久链接设置为标题就可以了
@@ -128,7 +128,7 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/xulong0826/blog
+  repo: https://github.com/3429298138/blog
   # example, https://github.com/hexojs/hexojs.github.io
   branch: main
 
@@ -143,7 +143,7 @@ sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
-  host: https://xulong0826.github.io/blog/
+  host: https://3429298138.github.io/blog/
 
 # js代码混淆和压缩
 hexo-clean-css:
