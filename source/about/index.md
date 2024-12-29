@@ -1,7 +1,7 @@
 ---
 title: about
 date: 2024-12-13 10:37:00
-banner_img: /assets/images/background/background.jpg
+banner_img: /assets/images/background/guyue.jpg
 ---
 
 ## 关于我
